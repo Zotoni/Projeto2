@@ -1,2 +1,1 @@
-# Projeto2
-Repositório para os arquivos do segundo projeto da jornada digital ADA
+ build ainda não está funcionando, ainda não consegui resolver um problema com o rabbitmq que percebe a fila mas não recebe as mensagens, outra configuração ele parece não processar o app1 e o 2 fica aguardando as mensagens eternamente.
